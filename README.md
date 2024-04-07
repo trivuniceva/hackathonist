@@ -9,11 +9,11 @@
 #### :memo: Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sending e-mails with Sendgrid](https://sevic.dev/notes/emails-sendgrid/)
 - [ssh vol 1. - Git server SSH key configuration](https://dusansimic.me/post/ssh-01/)
-- [DrawingFX libjpeg fix on Linux](https://dusansimic.me/post/drawingfx-libjpeg-fix/)
-- [Fish shell abbreviations](https://dusansimic.me/post/fish-abbreviations/)
-- [Electron](https://dusansimic.me/post/electron/)
-- [Why I love RSS feeds](https://dusansimic.me/post/why-i-love-rss-feeds/)
+- [MongoDB containers with Docker Compose](https://sevic.dev/notes/mongodb-docker-compose/)
+- [Web scraping with cheerio](https://sevic.dev/notes/scraping-cheerio/)
+- [Integration with GitHub GraphQL API](https://sevic.dev/notes/github-graphql-api-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 #### :computer: Recent hackathons
